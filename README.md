@@ -1,9 +1,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Steps to Run The app 
 
-In the project directory, you can run:
+1. Navigate to the root directory into which the repo is cloned.
+2. npm i (For installing node modules)
+3. npm start (Starts a local server on port 3000 by default)
 
+## Flow of the execution
+
+1. index.html
+2. src/index.js
+3. src/App.js
+4. src/components/Title.js
+
+
+## Run the app using yarn
 ### `yarn start`
 
 Runs the app in the development mode.<br />
